@@ -9,11 +9,3 @@ https://utheses.univie.ac.at/search/?authors=shin&title_subtitle=shin&strict_sea
 <br><br>
 <strong>Keywords</strong> : Numerical analysis, Extrapolation, Matrix state approximation, Hilbert-Schmidt observables, Convex optimization, CVX, MOSEK. 
 </p>
-
-# CORRECTION 
-&nbsp;&nbsp; Some typos were belately found:
-+ li
-+ li
-+ li
-
-To be updated! 😎

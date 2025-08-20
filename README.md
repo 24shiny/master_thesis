@@ -1,6 +1,5 @@
 # BRIEF INTRODUCTION
-&nbsp;&nbsp; These are some selected MATLAB codes for my master thesis ***Extrapolation of Quantum TIme Series***. Its full-text is available on <strong>u:thesis</strong>, a ditigal archive run by <strong>the University of Vienna</strong>:<br>
-https://utheses.univie.ac.at/search/?authors=shin&title_subtitle=shin&strict_search=false&sortResultsField=score&sortResultsOrder=desc&resultsPerPage=25&currentPage=1
+&nbsp;&nbsp; These are some selected MATLAB codes for my master thesis ***Extrapolation of Quantum TIme Series***. Its full-text is available on <strong>u:thesis</strong>, a ditigal archive run by [<strong>the University of Vienna</strong>](https://utheses.univie.ac.at/search/?authors=shin&title_subtitle=shin&strict_search=false&sortResultsField=score&sortResultsOrder=desc&resultsPerPage=25&currentPage=1)
 <br>
 
 # ABSTRACT
